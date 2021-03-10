@@ -11,6 +11,8 @@ npx webpack
 npm install html-webpack-plugin -D
 npm install webpack-dev-server -D
 npx webpack serve
+npm install cross-env -D
+npm run dev
 ```
 ## class
 Configurando Webpack
