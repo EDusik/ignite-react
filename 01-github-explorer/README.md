@@ -9,6 +9,8 @@ npm install @babel/core @babel/cli @babel/preset-env -D
 npm install @babel/preset-react -D
 npx webpack
 npm install html-webpack-plugin -D
+npm install webpack-dev-server -D
+npx webpack serve
 ```
 ## class
 Configurando Webpack
