@@ -17,5 +17,8 @@ npm install style-loader css-loader -D
 npm install sass-loader -D
 npm install node-sass -D
 ```
+
+
+
 ## class
 Configurando Webpack
