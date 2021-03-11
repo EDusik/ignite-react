@@ -13,7 +13,9 @@ npm install webpack-dev-server -D
 npx webpack serve
 npm install cross-env -D
 npm run dev
-npm install style-loader css-loader -d
+npm install style-loader css-loader -D
+npm install sass-loader -D
+npm install node-sass -D
 ```
 ## class
 Configurando Webpack
