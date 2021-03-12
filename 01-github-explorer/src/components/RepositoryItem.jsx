@@ -1,13 +1,11 @@
-export const RepositoryItem = (props) => {
+export const RepositoryItem = ({repository}) => {
   return (
-    <div>
-       <li>
-          <strong>{props.repository?.name ?? "Default"}</strong>
-          <p>{props.repository?.description}</p>
-          <a href={props.repository?.link} target="_blank">
-            {props.repository?.link}
-          </a>    
-      </li>
-    </div>
+    <li>
+      <strong>{repository?.name}</strong>
+      <p>{repository?.description}</p>
+      <a href={repository?.html_url} target="_blank">
+        Acessar repositório
+      </a>    
+    </li>
   )
 }
