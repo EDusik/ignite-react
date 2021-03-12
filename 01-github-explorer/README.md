@@ -17,8 +17,9 @@ npm install style-loader css-loader -D
 npm install sass-loader -D
 npm install node-sass -D
 ```
-
-
+```
+npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+```
 
 ## class
 Configurando Webpack
