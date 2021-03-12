@@ -2,14 +2,6 @@ import { useState, useEffect } from "react";
 import { RepositoryItem } from "./RepositoryItem"
 import "../styles/repositories.scss";
 
-// https://api.github.com/users/EDusik
-
-const repository = {
-  name: "unform",
-  description: "repo do unform",
-  link: "https://github.com/EDusik"
-}
-
 export const RepositoryList = () => {
 
   const [repositories, setRepositories] = useState([]);
