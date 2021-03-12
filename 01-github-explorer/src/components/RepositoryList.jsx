@@ -1,17 +1,19 @@
-const repositoryName = "unform";
+import { RepositoryItem } from "./RepositoryItem"
+
+const repository = {
+  name: "unform",
+  description: "repo do unform",
+  link: "https://github.com/EDusik"
+}
 
 export const RepositoryList = () => {
   return (
     <section>
       <h1>Lista de repositórios</h1>
       <ul>
-        <li>
-          <string>{repositoryName}</string>
-          <p>Forms in React</p>
-          <a href="/">
-            Acessar Repositório
-          </a>
-        </li>
+        <RepositoryItem repository={repository} />
+        <RepositoryItem repository={repository} />
+        <RepositoryItem />
       </ul>
     </section>
   )
