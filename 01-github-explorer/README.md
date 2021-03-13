@@ -29,5 +29,3 @@ npm install @babel/preset-typescript -D
 npm install @types/react-dom -D
 npm install @types/react
 ```
-## class
-Configurando Webpack
