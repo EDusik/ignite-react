@@ -10,8 +10,11 @@
 
 
 ## :file_folder: Folders
-#### /01-github-explorer
-module 01
+#### /module-01
+github-explorer
 
-#### /02-dt-money
-module 02
+#### /module-02
+dtmoney
+
+#### /module-03
+ig-news
