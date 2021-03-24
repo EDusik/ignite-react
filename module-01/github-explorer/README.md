@@ -1,4 +1,10 @@
-## Commands
+# Module 01
+## GitHub Explorer 
+
+Application to show the list of repositories of a GitHub user.\
+Application developed from scratch.
+
+### Some commands to setup the application
 
 ``` npm 
 npm init -y
@@ -29,3 +35,14 @@ npm install @babel/preset-typescript -D
 npm install @types/react-dom -D
 npm install @types/react
 ```
+
+### Run the application
+```
+npm run dev
+```
+
+[http://localhost:8080/](http://localhost:8080/ "localhost")
+
+## Challenge 01
+
+[Challenge 01](https://github.com/EDusik/ignite-challenge-01 "Challenge 01")
