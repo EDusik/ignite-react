@@ -1,10 +1,16 @@
 # Module 03
-## IgNews
+## Ig News
 
-Application for financial control of expenses and incomings.\
+Next application to receive news.\
 Application developed from ```npx create-next-app```.
 
-[Figma Application Layout](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1 "Figma Application Layout")
+[Figma Application Layout](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news "Figma Application Layout")
+
+### Packages
+
+```
+npm install typescript @types/react @types/node -D
+```
 
 ### Run the application
 ```
