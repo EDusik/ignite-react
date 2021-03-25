@@ -17,4 +17,4 @@ github-explorer
 dtmoney
 
 #### /module-03
-ig-news
+ignews
