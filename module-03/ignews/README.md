@@ -8,12 +8,13 @@ Application developed from ```npx create-next-app```.
 
 ### Packages
 
-```
+```npm
 npm install typescript @types/react @types/node -D
+npm install sass
 ```
 
 ### Run the application
-```
+```npm
 npm run dev
 ```
 
