@@ -8,12 +8,15 @@ Application developed from ```npx create-next-app```.
 
 ### Technologies
 - [Stripe](https://stripe.com/)
+- [Fauna](https://fauna.com/)
 
 ### Packages
 
 ```npm
 npm install typescript @types/react @types/node -D
 npm install sass
+npm install stripe
+npm install next-auth
 ```
 
 ### Run the application
@@ -23,8 +26,7 @@ npm run dev
 
 [http://localhost:3000](http://localhost:3000 "localhost")
 
-
-## Challenge 02
+## Challenge 03
 
 [Challenge 03](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1 "Challenge 03")\
 [Solution](https://github.com/EDusik/ignite-react-challenge-02 "Solution")
