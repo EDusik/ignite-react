@@ -17,6 +17,8 @@ npm install typescript @types/react @types/node -D
 npm install sass
 npm install stripe
 npm install next-auth
+npm install axios
+npm install @stripe/stripe-js
 ```
 
 ### Run the application
