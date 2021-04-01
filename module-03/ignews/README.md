@@ -21,6 +21,13 @@ npm install axios
 npm install @stripe/stripe-js
 ```
 
+- [Stripe Cli](https://github.com/stripe/stripe-cli)
+
+```stripe
+stripe login
+stripe listen --forward-to localhost:3000/api/webhooks
+```
+
 ### Run the application
 ```npm
 npm run dev
