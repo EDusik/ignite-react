@@ -19,6 +19,7 @@ npm install stripe
 npm install next-auth
 npm install axios
 npm install @stripe/stripe-js
+npm install @prismicio/client
 ```
 
 - [Stripe Cli](https://github.com/stripe/stripe-cli)
