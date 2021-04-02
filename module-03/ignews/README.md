@@ -20,6 +20,8 @@ npm install next-auth
 npm install axios
 npm install @stripe/stripe-js
 npm install @prismicio/client
+npm install prismic-dom
+npm install @types/prismic-dom -D
 ```
 
 - [Stripe Cli](https://github.com/stripe/stripe-cli)
