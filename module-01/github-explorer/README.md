@@ -43,6 +43,7 @@ npm run dev
 
 [http://localhost:8080/](http://localhost:8080/ "localhost")
 
-## Challenge 01
+## Challenge 01 - React Concepts
+[Template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react "Template")\
 [Challenge 01](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d#66c870a0713c49dea3c1d07063f15af5 "Challenge 01")\
 [Solution](https://github.com/EDusik/ignite-react-challenge-01 "Solution")
