@@ -4,11 +4,6 @@
 
 ![Ignite Course](public/ignite-react.png)
 
-## Technologies
-
-- [React](https://reactjs.org/)
-
-
 ## :file_folder: Folders
 #### /module-01
 github-explorer
