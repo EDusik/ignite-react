@@ -10,6 +10,7 @@ Application developed from ```npx create-next-app```.
 ### Packages
 ```npm
 npm install typescript @types/react @types/node -D
+npm install @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
 ```
 
 ### Run the application
