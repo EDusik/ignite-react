@@ -7,12 +7,14 @@ Application developed from ```npx create-next-app```.
 ### Technologies
 - [Chakra UI](https://chakra-ui.com/)
 - [React Icons](https://react-icons.github.io/react-icons/) 
-
+- [ApexChart](https://apexcharts.com/)
+- 
 ### Packages
 ```npm
 npm install typescript @types/react @types/node -D
 npm install @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
 npm install react-icon
+npm install apexcharts react-apexcharts
 ```
 
 ### Run the application
