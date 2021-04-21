@@ -1,3 +1,4 @@
+import React from "react";
 import { 
   Box,
   Button,
@@ -16,10 +17,9 @@ import {
 
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
+import { Pagination } from "../../components/Pagination";
 
 import { RiAddLine, RiPencilLine } from "react-icons/ri";
-import React from "react";
-import { Pagination } from "../../components/Pagination";
 
 export default function UserList() {
   return (
