@@ -1,5 +1,3 @@
-import React from "react";
-
 import { Flex, Icon, Input } from "@chakra-ui/react";
 import { RiSearchLine } from "react-icons/ri";
 
