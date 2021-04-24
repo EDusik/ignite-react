@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { 
   Box,
   Button,
@@ -31,7 +32,7 @@ export default function UserList() {
     <Box>
       <Header />
 
-      <Flex maxWidth="{1480}" w="100%" my="6"mx="auto" px="6">
+      <Flex maxWidth={1480} w="100%" my="6"mx="auto" px="6">
         <Sidebar />
 
         <Box flex="1" borderRadius={8} bg="gray.800" p="8">
@@ -39,14 +40,16 @@ export default function UserList() {
             <Heading size="lg" fontWeight="normal">
               Usuários
             </Heading>
-            <Button 
-              as="a" 
-              size="sm" 
-              fontSize="sm" 
-              colorScheme="pink" 
-              leftIcon={<Icon as={RiAddLine} fontSize="16"/>}>
-              Criar novo
-            </Button>
+            <Link href="/users/create" passHref>
+              <Button 
+                as="a" 
+                size="sm" 
+                fontSize="sm" 
+                colorScheme="pink" 
+                leftIcon={<Icon as={RiAddLine} fontSize="16"/>}>
+                Criar novo
+              </Button>
+            </Link>         
           </Flex>
 
           <Table colorScheme="whiteAlpha">
