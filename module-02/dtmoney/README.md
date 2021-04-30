@@ -1,7 +1,7 @@
 # Module 02
 ## DT Money
 
-Application for financial control of expenses and incomings.\
+React application for financial control of expenses and incomings.\
 Application developed from ```npx create react app```.
 
 [Figma Application Layout](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1 "Figma Application Layout")

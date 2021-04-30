@@ -1,7 +1,7 @@
 # Module 01
 ## GitHub Explorer 
 
-Application to show the list of repositories of a GitHub user.\
+Simple React application to show the list of repositories of a GitHub user..\
 Application developed from scratch.
 
 ## Preview

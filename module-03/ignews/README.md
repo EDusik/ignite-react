@@ -1,7 +1,7 @@
 # Module 03
 ## Ig News
 
-Next application to show and receive news.\
+Next application to show and register news using Stripe, FaunaDB and Prismic CMS.\
 Application developed from ```npx create-next-app```.
 
 [Figma Application Layout](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news "Figma Application Layout")
