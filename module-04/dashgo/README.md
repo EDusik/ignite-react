@@ -15,6 +15,8 @@ npm install typescript @types/react @types/node -D
 npm install @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
 npm install react-icon
 npm install apexcharts react-apexcharts
+npm install react-hook-form
+npm install -S yup @hookform/resolvers yup
 ```
 
 ### Run the application
