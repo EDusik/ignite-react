@@ -5,7 +5,7 @@ Application to show the list of repositories of a GitHub user.\
 Application developed from scratch.
 
 ## Preview
-![Alt Text](.github/module-01.gif)
+![Preview](.github/module-01.gif)
 
 ### Some commands to setup the application
 

@@ -6,6 +6,9 @@ Application developed from ```npx create-next-app```.
 
 [Figma Application Layout](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news "Figma Application Layout")
 
+## Preview
+![Preview](.github/module-03.gif)
+
 ### Technologies
 
 - [Stripe](https://stripe.com/)

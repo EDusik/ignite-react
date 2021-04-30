@@ -7,7 +7,7 @@ Application developed from ```npx create react app```.
 [Figma Application Layout](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1 "Figma Application Layout")
 
 ## Preview
-![Alt Text](.github/module-02.gif)
+![Preview](.github/module-02.gif)
 
 ### Run the application
 ```
