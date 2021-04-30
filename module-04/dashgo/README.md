@@ -8,7 +8,9 @@ Application developed from ```npx create-next-app```.
 - [Chakra UI](https://chakra-ui.com/)
 - [React Icons](https://react-icons.github.io/react-icons/) 
 - [ApexChart](https://apexcharts.com/)
-- 
+- [Yup](https://github.com/jquense/yup)
+- [React Hook Form](https://react-hook-form.com/)
+- [Mirage JS](https://miragejs.com/)
 ### Packages
 ```npm
 npm install typescript @types/react @types/node -D
@@ -17,6 +19,7 @@ npm install react-icon
 npm install apexcharts react-apexcharts
 npm install react-hook-form
 npm install -S yup @hookform/resolvers yup
+npm install miragejs -D
 ```
 
 ### Run the application
