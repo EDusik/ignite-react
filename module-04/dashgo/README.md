@@ -22,6 +22,7 @@ npm install -S yup @hookform/resolvers yup
 npm install miragejs -D
 npm install faker -D
 npm install @types/faker -D
+npm install react-query
 ```
 
 ### Run the application
