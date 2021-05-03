@@ -20,6 +20,8 @@ npm install apexcharts react-apexcharts
 npm install react-hook-form
 npm install -S yup @hookform/resolvers yup
 npm install miragejs -D
+npm install faker -D
+npm install @types/faker -D
 ```
 
 ### Run the application
