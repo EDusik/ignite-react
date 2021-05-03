@@ -49,6 +49,8 @@ export default function UserList() {
     });
 
     return users;
+  }, {
+    staleTime: 1000 * 5 // keep fresh per 5 seconds
   });
 
   return (
