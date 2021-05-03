@@ -2,7 +2,7 @@
 
 <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> Ignite React Course.
 
-![Ignite Course](public/ignite-react.png)
+![Ignite Course](github/ignite-react.png)
 
 ## :file_folder: Folders
 #### /module-01
