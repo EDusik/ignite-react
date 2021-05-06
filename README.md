@@ -7,7 +7,7 @@
 ## :file_folder: Folders
 #### /module-01
 * github-explorer\
-Simple React application to show the list of repositories of a GitHub user.
+Simple React application to show the list of repositories from a GitHub user.
 
 #### /module-02
 * dtmoney\
@@ -22,4 +22,4 @@ Next application to show and register news using Stripe, FaunaDB and Prismic CMS
 Next application using chakra-ui with dashboard.
 
 * ignite-reactjs-auth-backend\
-Node backend application with authentication endpoints.
+Node backend application including authentication endpoints.
