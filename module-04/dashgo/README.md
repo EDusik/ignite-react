@@ -1,7 +1,7 @@
 # Module 04
 ## Dashgo
 
-Next application with dashboard\
+Next application using chakra-ui with dashboard\
 Application developed from ```npx create-next-app```.
 
 ### Technologies
