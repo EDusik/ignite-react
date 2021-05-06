@@ -19,7 +19,7 @@ Next application to show and register news using Stripe, FaunaDB and Prismic CMS
 
 #### /module-04
 * dashgo\
-Next application using chakra-ui with dashboard.
+Next dashboard application made with chakra-ui.
 
 * ignite-reactjs-auth-backend\
 Node backend application including authentication endpoints.
