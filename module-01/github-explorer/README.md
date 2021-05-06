@@ -27,11 +27,11 @@ npm install sass-loader -D
 npm install node-sass -D
 ```
 
-```
+```npm
 npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 ```
 
-```
+```npm
 npm install typescript -D
 npx typescript --init
 npm install @babel/preset-typescript -D
@@ -40,7 +40,7 @@ npm install @types/react
 ```
 
 ### Run the application
-```
+```npm
 npm run dev
 ```
 

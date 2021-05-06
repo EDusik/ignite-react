@@ -23,3 +23,6 @@ Next application using chakra-ui with dashboard.
 
 * ignite-reactjs-auth-backend\
 Node backend application including authentication endpoints.
+
+* nextauth\
+Next app containing authentication system.

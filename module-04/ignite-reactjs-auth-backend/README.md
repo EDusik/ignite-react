@@ -4,7 +4,7 @@
 Node backend application using this project as a [template](https://github.com/rocketseat-education/ignite-reactjs-auth-backend "template")
 
 ### Run the application
-```
+```npm
 npm run dev
 ```
 
