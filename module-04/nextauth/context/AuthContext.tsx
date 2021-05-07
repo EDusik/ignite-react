@@ -43,8 +43,6 @@ export function AuthProvider ({ children }: AuthProviderProps ) {
           roles
         });
       });
-    } else {
-
     }
   }, [])
 
