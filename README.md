@@ -5,19 +5,19 @@
 ![Ignite Course](.github/ignite-react.png)
 
 ## :file_folder: Folders
-#### /module-01
+#### /chapter-1
 * github-explorer\
 Simple React application to show the list of repositories from a GitHub user.
 
-#### /module-02
+#### /chapter-2
 * dtmoney\
 React application for financial control of expenses and incomings.
 
-#### /module-03
+#### /chapter-3
 * ignews\
 Next application to show and register news using Stripe, FaunaDB and Prismic CMS.
 
-#### /module-04
+#### /chapter-4
 * dashgo\
 Next dashboard application made with chakra-ui.
 
@@ -26,3 +26,5 @@ Node backend application including authentication endpoints.
 
 * nextauth\
 Next app containing authentication system.
+
+#### /chapter-5
