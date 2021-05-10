@@ -6,6 +6,7 @@ Commands
 ```npm
 npm install typescript @types/react @types/node -D
 npm install nookies
+npm install jwt-decode
 ```
 ### Run the application
 ```npm

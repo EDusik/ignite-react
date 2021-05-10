@@ -20,7 +20,7 @@ export default function Dashboard() {
     <>
       <h1>Dashboard {user?.email}</h1>
       <Can permissions={["metrics.list"]}>
-        <div>Métricas</div>
+        <div>Dashboard</div>
       </Can>
     </>
   )
