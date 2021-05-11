@@ -1,4 +1,4 @@
-# Module 01
+# Chapter 01
 ## GitHub Explorer 
 
 Simple React application to show the list of repositories of a GitHub user..\

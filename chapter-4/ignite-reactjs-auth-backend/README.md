@@ -1,4 +1,5 @@
-# Ignite React Auth Backend
+# Chapter 04
+## Ignite React Auth Backend
 
 ## About
 Node backend application using this project as a [template](https://github.com/rocketseat-education/ignite-reactjs-auth-backend "template")

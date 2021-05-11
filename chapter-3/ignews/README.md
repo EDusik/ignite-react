@@ -1,4 +1,4 @@
-# Module 03
+# Chapter 03
 ## Ig News
 
 Next application to show and register news using Stripe, FaunaDB and Prismic CMS.\

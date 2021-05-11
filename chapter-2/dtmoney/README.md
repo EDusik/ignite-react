@@ -1,4 +1,4 @@
-# Module 02
+# Chapter 02
 ## DT Money
 
 React application for financial control of expenses and incomings.\

@@ -1,4 +1,4 @@
-# Module 04
+# Chapter 04
 ## Dashgo
 
 Next application using chakra-ui with dashboard\
