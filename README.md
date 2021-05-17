@@ -29,5 +29,5 @@ Next app containing authentication system.
 
 #### /chapter-5
 * perf-application\
-Next app containing mocks results and a simple search component implementing performance solutions
+Next app containing mocks results and a simple search component implementing performance solutions.
 
