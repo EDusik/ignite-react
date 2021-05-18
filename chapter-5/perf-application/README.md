@@ -22,8 +22,12 @@ npm run dev
 ```npm
 npm run server
 ```
+#### Build Status
+build with @next/bundle-analyzer
+```npm
+ANALYZE=true npm run build
+npm run analyze
+```
+
 [http://localhost:3333/products](http://localhost:3333/products "[localhost](http://localhost:3333/products)")
-
-
-
 
