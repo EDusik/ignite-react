@@ -1,4 +1,4 @@
-# :rocket: Ignite Rocketseat
+# :rocket: Ignite Rocketseat React
 
 <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> Ignite React Course.
 
